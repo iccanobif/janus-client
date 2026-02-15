@@ -1,6 +1,6 @@
 {
   "name": "janus-videoroom-client",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "main": "src/janus.js",
   "types": "index.d.ts",
   "scripts": {
